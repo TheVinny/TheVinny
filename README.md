@@ -1,4 +1,9 @@
 ## Olá, me chamo Vinicius👋
+
+🏠Salvador - BA. <br>
+🧑‍💻Tec. Desensolvimento de Sistemas - SENAI 2/3.
+<hr>
+
 <div align="center">
   <a href="https://github.com/TheVinny">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TheVinny&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
