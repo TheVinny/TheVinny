@@ -1,7 +1,7 @@
 ## Olá, me chamo Marcos👋
 
 🏠Salvador - BA. <br>
-🧑‍💻Tec. Desensolvimento de Sistemas - SENAI 2/3.
+🧑‍💻Tec. Desensolvimento de Sistemas - SENAI 3/3.
 <hr>
 
 <div align="center">
