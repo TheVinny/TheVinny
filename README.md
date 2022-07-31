@@ -1,7 +1,7 @@
 
 
 🏠Salvador - BA. <br>
-🧑‍💻Tec. Desensolvimento de Sistemas - SENAI 3/3.
+🧑‍💻Desenvolvedor front-end
 <hr>
 
 <div align="center">
