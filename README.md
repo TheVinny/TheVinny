@@ -1,7 +1,7 @@
 
 
 🏠Salvador - BA. <br>
-🧑‍💻Desenvolvedor front-end
+🧑‍💻Desenvolvedor FullStack
 <hr>
 
 <div align="center">
