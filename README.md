@@ -29,5 +29,7 @@
 <div>
   <p> Contato: </p>
   <a href="https://www.linkedin.com/in/marvinisantana/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- <a href = "mailto:marcosdev.working@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="mailto:marcosdev.working@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
+  <a href="https://wa.me/71985125048" target="_blank"><img src="https://img.shields.io/badge/-whatsapp-%ffff?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
+ 
 </div>
