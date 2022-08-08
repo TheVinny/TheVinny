@@ -4,10 +4,10 @@
 🧑‍💻Desenvolvedor fullstack em constante aprendizado!
 <hr>
 
-<div align="center">
+<div align="center" style="display: inline_block">
   <a href="https://github.com/TheVinny">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TheVinny&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thevinny&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" width="350px" src="https://github-readme-stats.vercel.app/api?username=TheVinny&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thevinny&layout=compact&langs_count=7&theme=dracula"/>
   
 </div>
 <div>
