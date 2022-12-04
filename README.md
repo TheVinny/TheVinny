@@ -1,29 +1,31 @@
 
-
-🏠Salvador - BA. <br>
-🧑‍💻Desenvolvedor backend
-<hr>
+<h3 align="center">Desenvolvedor Backend - 🧑‍ 💻</h3>
+<h3 align="center">🏠Salvador - BA. </h3>
+<h2></h2> 
+<br>
 
 <div align="center" style="display: inline_block">
   <a href="https://github.com/TheVinny">
-  <img height="180em" width="350px" src="https://github-readme-stats.vercel.app/api?username=TheVinny&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thevinny&layout=compact&langs_count=7&theme=dracula"/>
-  
+  <img height="200px" width="280px" src="https://github-readme-stats.vercel.app/api?username=TheVinny&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="200px" width="280px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thevinny&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="200px" width="280px" src="https://github-readme-streak-stats.herokuapp.com/?user=thevinny&theme=dracula" alt="thevinny" />
 </div>
 <div>
-  <p>Tecnologias:</p>
+  
 </div>
-<div style="display: inline_block">
+ 
+<div style="display: inline_block" align="center">
+  <h4>Tecnologias:</h4>
  <img align="center" alt="Vini-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
- <img align="center" alt="Vini-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
  <img align="center" alt="Vini-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  <img align="center" alt="Vini-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
  <img align="center" alt="Vini-NodeJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
  <img align="center" alt="Vini-Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
  <img align="center" alt="Vini-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+   <img align="center" alt="Vini-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg">
+     <img align="center" alt="Vini-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
  <img align="center" alt="Vini-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
- <img align="center" alt="Vini-Sequelize" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original.svg">
- <img align="center" alt="Vini-Express" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
+ <img align="center" alt="Vini-Express" height="30" width="40" src="https://jsurt.github.io/jacks-portfolio/images/color-express-icon%20(1).png">
  <img align="center" alt="Vini-tailwind" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_tailwind_icon_130128.png">
  
   
