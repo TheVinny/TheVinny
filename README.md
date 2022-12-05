@@ -2,32 +2,20 @@
 <h3 align="center">Desenvolvedor Backend - 🧑‍ 💻</h3>
 <h3 align="center">🏠Salvador - BA. </h3>
 <h2></h2> 
-
-
-<div align="center" style="display:flex">
-<div>
-<h4> Backend - Techs </h4>
-  <ul>
-    <li>Javascript</li>
-    <li>Typescript</li>
-    <li>Node.Js</li>
-    <li>Postgres</li>
-    <li>Cloud</li>
-    <li>Docker</li>
-  <ul>
-</div>
-<div>
-<h4> Frontend- Techs </h4>
-  <ul>
-    <li>Javascript</li>
-    <li>Typescript</li>
-    <li>React.Js</li>
-    <li>CSS / SASS</li>
-    <li>Redux</li>
-  <ul>
-</div>
-</div>
-
+  
+<div align="center"> 
+  
+Backend - Techs  | Frontend - Techs
+------- | --------
+Javascript   | Javascript
+Typescript   | Typescript
+Node.Js      | React.Js
+Postgres     | Css / Sass
+Cloud        | Redux
+Docker       | Axios
+  
+</div> 
+  
 <div align="center" style="display: inline_block">
   <a href="https://github.com/TheVinny">
   <img height="200px" width="265px" src="https://github-readme-stats.vercel.app/api?username=TheVinny&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
