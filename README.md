@@ -2,7 +2,30 @@
 <h3 align="center">Desenvolvedor Backend - 🧑‍ 💻</h3>
 <h3 align="center">🏠Salvador - BA. </h3>
 <h2></h2> 
-<br>
+
+
+<div align="center" style="display:flex">
+<div>
+<h4> Backend - Techs </h4>
+  <ul>
+    <li>Javascript</li>
+    <li>Typescript</li>
+    <li>Node.Js</li>
+    <li>Postgres</li>
+    <li>Cloud</li>
+  <ul>
+</div>
+<div>
+<h4> Frontend- Techs </h4>
+  <ul>
+    <li>Javascript</li>
+    <li>Typescript</li>
+    <li>React.Js</li>
+    <li>CSS / SASS</li>
+    <li>Redux</li>
+  <ul>
+</div>
+</div>
 
 <div align="center" style="display: inline_block">
   <a href="https://github.com/TheVinny">
